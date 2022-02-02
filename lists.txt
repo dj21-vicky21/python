@@ -3,5 +3,3 @@ apple
 mango
 grape
 banana
-pineapple
-dragonfruit
